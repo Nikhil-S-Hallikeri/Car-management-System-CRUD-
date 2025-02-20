@@ -1,4 +1,4 @@
-# Car-management-System-CRUD-
+# Car-management-System-CRUD
 
 Technologies Used: Java, JSP, Servlets, HTML5, CSS3, JavaScript, MySQL
 
